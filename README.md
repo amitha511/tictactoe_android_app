@@ -5,7 +5,7 @@
 <br>
 
 <p align = "center">
-    <img src = https://github.com/amitha511/ticTacToe_android_app/blob/main/video.mp4 width="400" height="300" />
+    <img src = https://github.com/amitha511/ticTacToe_android_app/blob/main/video.gif width="100" height="150" />
 
 ## Features:
 
